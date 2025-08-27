@@ -60,14 +60,6 @@ This project demonstrates:
 
 ---
 
-## 📌 Future Improvements
-
-* 📊 Add data visualization (charts of spending by category)
-* 📂 Switch to SQLite database for advanced storage
-* 📤 Export expenses to Excel or PDF
-* 🔐 Add login/authentication for multiple users
-
----
 
 ## 👤 Author
 
